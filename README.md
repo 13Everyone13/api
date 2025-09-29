@@ -8,5 +8,5 @@ https://www.postman.com/speeding-astronaut-9265683/workspace/alexey-nikonorov-wo
 
 Результаты автотестов
 
-[Uploading Никоноров_DemoShopping.json…]()
+[Nikonorov_DemoShopping.json](https://github.com/user-attachments/files/22604090/Nikonorov_DemoShopping.json)
 

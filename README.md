@@ -1,6 +1,12 @@
 # Тестирование API
 
 
-Коллекция API Products
+Коллекция API 
 
-https://www.postman.com/speeding-astronaut-9265683/workspace/alexey-nikonorov-workspace/collection/48720117-45833bcb-6f30-4a7c-a435-2db066b9fd5b?action=share&creator=48720117&active-environment=48720117-a38b7008-f817-4223-a83e-1d80ba887c7e
+https://www.postman.com/speeding-astronaut-9265683/workspace/alexey-nikonorov-workspace/request/48720117-3d7f0150-1962-426f-aa1c-f857da425bb4?action=share&creator=48720117&ctx=documentation&active-environment=48720117-a38b7008-f817-4223-a83e-1d80ba887c7e
+
+
+Результаты автотестов
+
+[Uploading Никоноров_DemoShopping.json…]()
+

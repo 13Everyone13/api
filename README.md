@@ -14,3 +14,8 @@ https://www.postman.com/speeding-astronaut-9265683/workspace/alexey-nikonorov-wo
 SOAP тестирование
 
 https://www.postman.com/speeding-astronaut-9265683/workspace/alexey-nikonorov-workspace/collection/48720117-38ace146-7596-4fbb-94e9-1ba584f9eb79?action=share&creator=48720117
+
+
+Тест-кейсы по тестирования API
+
+[G101-2025-10-04.pdf](https://github.com/user-attachments/files/22698397/G101-2025-10-04.pdf)

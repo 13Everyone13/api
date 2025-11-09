@@ -10,7 +10,7 @@
  
 - [Результаты автотестов](https://github.com/user-attachments/files/22604090/Nikonorov_DemoShopping.json)
  
-- [Тест-кейсы по тестированию API](https://github.com/user-attachments/files/22698397/G101-2025-10-04.pdf)
+- [Тестовые наборы по тестированию API](https://github.com/user-attachments/files/22698397/G101-2025-10-04.pdf)
 
 Следующий [WSDL](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL) помог мне создать коллекцию в Postman для работы с валютами стран, полной информации о стране и информации о языке, специфичном для конкретной страны
 
